@@ -11,5 +11,5 @@ public class Debug {
  int num1 = 10;
  int num2 = 37;
  System.out.println("The sum of the variables is " + (num1 + num2));
- }
-}
+ //What I learned: I learned how to input a scanner and asks questions where the user can enter text as an input. 
+ //I also learned how to add integers and differentiate a string from an integer.
